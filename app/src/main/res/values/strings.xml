@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="start">Please select a sport</string>
+    <string name="sea">Search</string>
+    <string name="title">Search by Sport...</string>
+    <string name="error">No such news</string>
+    <string name="connect">No internet connection</string>
+    <string name="spinner_default_value">football</string>
+    <string-array name="spinner_options">
+        <item>football</item>
+        <item>cricket</item>
+        <item>basketball</item>
+        <item>badminton</item>
+        <item>cycling</item>
+        <item>boxing</item>
+        <item>wrestling</item>
+        <item>golf</item>
+        <item>tennis</item>
+        <item>baseball</item>
+        <item>athletics</item>
+        <item>hockey</item>
+    </string-array>
+</resources>
